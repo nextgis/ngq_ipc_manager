@@ -1,0 +1,27 @@
+{
+	"build_systems":
+	[
+		{
+			"shell": true,
+			"name": "Run client",
+			"cmd": [
+						"python.exe",
+						"${folder}/ngq_client.py"
+					],
+		}
+	],
+
+	"folders":
+	[
+		{
+			"path": "./src",
+			"file_exclude_patterns": ["*.pyc"]
+		},
+	],
+	"settings":
+	{
+		"python_interpreter": "c:\\Python27\\python.exe",
+		"auto_python_builder_enabled": false,
+		"pep8": false,
+	}
+} 

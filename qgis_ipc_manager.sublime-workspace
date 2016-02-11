@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mode",
+				"DSManagerModel"
+			],
+			[
+				"Dec",
+				"DescendingOrder	instance"
+			],
+			[
+				"data_",
+				"data_sources_model	module"
+			],
+			[
+				"Check",
+				"CheckStateRole	instance"
+			],
+			[
+				"group",
+				"groupIndex	statement"
+			],
+			[
+				"ds",
+				"dsManagerViewModel	statement"
+			],
+			[
+				"Ch",
+				"CheckStateRole	instance"
+			],
+			[
+				"sort",
+				"sortChildren	function"
+			],
+			[
+				"Dis",
+				"DisplayRole	instance"
+			],
+			[
+				"hide",
+				"hideDSidList	statement"
+			],
+			[
+				"hi",
+				"hideDSidList	statement"
+			],
+			[
+				"grou",
+				"groupIndex	forstmt"
+			],
+			[
+				"ch",
+				"childCount	function"
+			],
+			[
+				"gro",
+				"group_item_index	forstmt"
+			],
+			[
+				"chil",
+				"child_checked	statement"
+			],
+			[
+				"par",
+				"parent_item	statement"
+			],
+			[
+				"seti",
+				"setItem"
+			],
+			[
+				"Ma",
+				"MatchExactly	instance"
+			],
+			[
+				"settings",
+				"settings_ds_manager	module"
+			],
+			[
+				"Al",
+				"AlignLeft	instance"
+			],
+			[
+				"ds_i",
+				"ds_is_visible	statement"
+			],
+			[
+				"De",
+				"DescendingOrder	instance"
+			],
+			[
+				"in",
+				"index	param"
+			],
+			[
+				"QAbs",
+				"QAbstractItemView	class"
+			],
+			[
+				"next",
+				"nextElement	statement"
+			],
+			[
+				"cb",
+				"cb_widget	statement"
+			],
+			[
+				"wid",
+				"widgetsForDSGenerated	statement"
+			],
+			[
+				"DS",
+				"DSViewGenerator	class"
+			],
+			[
+				"Ali",
+				"AlignLeft	instance"
+			],
+			[
+				"get",
+				"get_ds_hide_id_list	function"
+			],
+			[
+				"__ds",
+				"__ds_hide_id_list	statement"
+			],
+			[
+				"QTabl",
+				"QTableWidget	class"
+			],
+			[
+				"it",
+				"item	statement"
+			],
+			[
+				"setChec",
+				"setCheckState	function"
+			],
+			[
+				"pyqt",
+				"pyqtSignal	class"
+			],
+			[
+				"setMa",
+				"setMaximumWidth	function"
+			],
+			[
+				"setS",
+				"setSizePolicy	function"
+			],
+			[
+				"setCh",
+				"setChecked	function"
+			],
+			[
+				"is",
+				"isChecked"
+			],
+			[
+				"pro",
+				"progressChanged	statement"
+			],
+			[
+				"Pl",
+				"plPrint"
+			],
+			[
+				"ide",
+				"identifyStarted	statement"
+			],
+			[
+				"start",
+				"started	function"
+			],
+			[
+				"Q",
+				"QObject"
+			],
+			[
+				"qg",
+				"qgis_plugin_base	module"
+			],
+			[
+				"iden",
+				"identifyTools	param"
+			],
+			[
+				"qgsL",
+				"qgsMapLayer	param"
+			],
+			[
+				"y",
+				"yield	keyword"
+			],
+			[
+				"ident",
+				"identifytool_qgis	module"
+			],
+			[
+				"identify",
+				"identifyplus	module"
+			],
+			[
+				"Plr",
+				"plPrint	function"
+			],
+			[
+				"id",
+				"identifyTools	statement"
+			],
+			[
+				"repr",
+				"representations	module"
+			],
+			[
+				"rep",
+				"representations	module"
+			],
+			[
+				"qgs",
+				"qgsMapLayer	param"
+			],
+			[
+				"SQL",
+				"SQLiteProvider	class"
+			],
+			[
+				"tab",
+				"tableName	statement"
+			],
+			[
+				"sql",
+				"sqliteFilename	statement"
+			],
+			[
+				"SQLiteAt",
+				"SQLiteAttributesView	class"
+			],
+			[
+				"SQ",
+				"SQLiteAttributesModel	class"
+			],
+			[
+				"repre",
+				"representation_sqlite	module"
+			],
+			[
+				"QW",
+				"QWidget	class"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"QgsMap",
+				"QgsMapToolIdentify"
+			],
+			[
+				"Ide",
+				"IdentifyPlus	class"
+			],
+			[
+				"ex",
+				"except	keyword"
+			],
+			[
+				"dest",
+				"dest_ds	statement"
+			],
+			[
+				"__st",
+				"__statusLable	statement"
+			],
+			[
+				"lay",
+				"layer_src	statement"
+			],
+			[
+				"la",
+				"layerSrcCreated	statement"
+			],
+			[
+				"Cer",
+				"CreateLayer"
+			],
+			[
+				"cr",
+				"critical	function"
+			],
+			[
+				"setFo",
+				"setFormat	function"
+			],
+			[
+				"sta",
+				"statusChanged	statement"
+			],
+			[
+				"lesis",
+				"lesis2sqlite	module"
+			],
+			[
+				"P",
+				"Plugin	class"
+			],
+			[
+				"re",
+				"reject	function"
+			],
+			[
+				"IV",
+				"IVFile	class"
+			],
+			[
+				"sav",
+				"saveValue	function"
+			],
+			[
+				"pl",
+				"plPrint	function"
+			],
+			[
+				"ho",
+				"homePath	function"
+			],
+			[
+				"QFile",
+				"QFileDialog	class"
+			],
+			[
+				"click",
+				"clicked	function"
+			],
+			[
+				"tog",
+				"toggled	function"
+			],
+			[
+				"def",
+				"defaultValue	param"
+			],
+			[
+				"QLin",
+				"QLineEdit	class"
+			],
+			[
+				"add",
+				"addWidget	function"
+			],
+			[
+				"setWind",
+				"setWindowTitle	function"
+			],
+			[
+				"QDia",
+				"QDialog	class"
+			],
+			[
+				"qgis_",
+				"qgis_plugin_base	module"
+			],
+			[
+				"__l",
+				"__list	statement"
+			],
+			[
+				"fe",
+				"fetchall	function"
+			],
+			[
+				"tip",
+				"tipvyr"
+			],
+			[
+				"unic",
+				"unicode	class"
+			],
+			[
+				"Get",
+				"getDBFbyName	function"
+			],
+			[
+				"ref",
+				"reference_cash	statement"
+			],
+			[
+				"epo",
+				"export_fields	statement"
+			],
+			[
+				"expo",
+				"export_fields	statement"
+			],
+			[
+				"fi",
+				"field_names"
+			],
+			[
+				"fie",
+				"field_type	statement"
+			],
+			[
+				"type",
+				"typemap	statement"
+			],
+			[
+				"sh",
+				"shape_file	param"
+			],
+			[
+				"sha",
+				"shapeFile	statement"
+			],
+			[
+				"dbff",
+				"dbf_fields_file	param"
+			],
+			[
+				"dataFi",
+				"dataFilesSet	statement"
+			],
+			[
+				"data",
+				"dataFiles	statement"
+			],
+			[
+				"dataF",
+				"dataFilesSet	statement"
+			],
+			[
+				"lo",
+				"lower"
+			],
+			[
+				"dir",
+				"dirnames	forstmt"
+			],
+			[
+				"bas",
+				"base_dir	param"
+			],
+			[
+				"db",
+				"dbf_files	statement"
+			],
+			[
+				"exc",
+				"exceptions	statement"
+			],
+			[
+				"sqli",
+				"sqlite_db_dest	param"
+			],
+			[
+				"GetDr",
+				"GetDriverByName	function"
+			],
+			[
+				"tbl_name",
+				"tbl_name	param"
+			],
+			[
+				"fet",
+				"fetchone	function"
+			],
+			[
+				"con",
+				"continue	keyword"
+			],
+			[
+				"tb",
+				"tbl_field_name	statement"
+			],
+			[
+				"fiel",
+				"field_names"
+			],
+			[
+				"r",
+				"raise"
+			],
+			[
+				"export",
+				"initExport"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"ro",
+				"row_index"
+			],
+			[
+				"ph",
+				"phl1"
+			],
+			[
+				"OFT",
+				"OFTString"
+			],
+			[
+				"GetF",
+				"GetFieldCount"
+			],
+			[
+				"shap",
+				"shapes"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"qgis",
+				"QGIS Plugin: Configure environmant"
+			],
+			[
+				"git: pu",
+				"Git: Push"
+			],
+			[
+				"git: com",
+				"Git: Quick Commit"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"PAck",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/dev/qgis_ipc_manager/qgis_ipc_manager.sublime-project",
+		"/E/dev/qgis_ipc_manager/.gitignore",
+		"/E/dev/QuickMapServices/qgis-repo.xml",
+		"/E/dev/QuickMapServices/src/metadata.txt",
+		"/E/dev/QuickMapServices/src/plugin_settings.py",
+		"/E/dev/QuickMapServices/Makefile.py",
+		"/E/dev/QuickMapServices/developers.xml",
+		"/E/dev/QuickMapServices/src/data_sources_model.py",
+		"/E/dev/developers.xml",
+		"/E/dev/qgis_ipc_plugin/Makefile.py",
+		"/E/dev/QuickMapServices/quick_map_services.sublime-project",
+		"/E/dev/qgis_ipc_plugin/plugin.sublime-project",
+		"/E/dev/QuickMapServices/src/settings_dialog.py",
+		"/E/dev/QuickMapServices/src/data_source_info.py",
+		"/E/dev/QuickMapServices/src/quick_map_services.py",
+		"/E/dev/QuickMapServices/src/settings_ds_manager.py",
+		"/C/Users/Alexander/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/dev/QuickMapServices/quick_map_servises.sublime-project",
+		"/E/dev/quickmapservices/src/about_dialog.py",
+		"/E/dev/quickmapservices/qms.sublime-project",
+		"/E/dev/quickmapservices/src/plugin_settings.py",
+		"/C/Users/Alexander/AppData/Roaming/Sublime Text 3/Packages/QGISPlugisDev/qgisplugindev.py",
+		"/E/dev/qgisplugin.sublime-project",
+		"/E/dev/quickmapservices/src/settings_dialog.py",
+		"/E/dev/quickmapservices/src/data_sources_list.py",
+		"/E/dev/quickmapservices/src/extra_sources.py",
+		"/E/dev/landsat_preprocess/monitor/monitor/views.py",
+		"/E/dev/landsat_preprocess/monitor/monitor/processing/processing.py",
+		"/C/Users/Alexander/Desktop/phase2-2/videl_plg.qlr",
+		"/C/Users/Alexander/Desktop/phase2-2/phase2-2.qgs",
+		"/E/dev/IdentifyPlus/identifyplus.sublime-project",
+		"/E/dev/IdentifyPlus/identifyplus.sublime-workspace",
+		"/E/dev/IdentifyPlus/src/identifytool_sqlite.py",
+		"/E/dev/IdentifyPlus/src/identifytool_qgis.py",
+		"/E/dev/IdentifyPlus/src/metadata.txt",
+		"/E/dev/osmoinfo/src/osminforesults.py",
+		"/E/dev/IdentifyPlus/Makefile.py",
+		"/E/dev/osmoinfo/src/osminfotool.py",
+		"/E/dev/IdentifyPlus/src/identifytool_ngw.py",
+		"/E/dev/IdentifyPlus/src/ngw_external_api_python/core/ngw_utils.py",
+		"/E/dev/IdentifyPlus/src/ngw_external_api_python/core/ngw_connection.py",
+		"/E/dev/IdentifyPlus/src/ngw_external_api_python/core/ngw_resource.py",
+		"/E/dev/IdentifyPlus/src/ngw_external_api_python/core/ngw_resource_factory.py",
+		"/E/dev/IdentifyPlus/src/ngw_external_api_python/core/ngw_error.py",
+		"/E/dev/IdentifyPlus/src/identifyplusmaptool.py",
+		"/E/dev/IdentifyPlus/src/representation_ngw.py",
+		"/E/dev/IdentifyPlus/src/representations.py",
+		"/E/dev/IdentifyPlus/src/identifyplusresults.py",
+		"/E/dev/IdentifyPlus/src/identifytools.py",
+		"/E/dev/IdentifyPlus/src/identifyplusmodel.py",
+		"/E/dev/IdentifyPlus/src/representation_sqlite.py",
+		"/E/dev/IdentifyPlus/src/identifytool.py",
+		"/E/dev/IdentifyPlus/src/representation_qgis.py",
+		"/E/dev/IdentifyPlus/src/identifytools/__init__.py",
+		"/E/dev/IdentifyPlus/src/identifytools/identifytool_qgis.py",
+		"/E/dev/IdentifyPlus/src/resources.qrc",
+		"/E/dev/IdentifyPlus/src/aboutdialog.py",
+		"/E/dev/IdentifyPlus/src/.gitmodules",
+		"/E/dev/IdentifyPlus/src/ui/ui_aboutdialogbase.py",
+		"/E/dev/IdentifyPlus/src/ui/ui_attributestable.py",
+		"/E/dev/IdentifyPlus/src/ui/ui_attributestablewithimages.py",
+		"/E/dev/IdentifyPlus/src/ui/__init__.py",
+		"/E/dev/IdentifyPlus/src/qgis_plugin_base.py",
+		"/E/dev/IdentifyPlus/lesis2sqlite.sublime-project",
+		"/C/Users/Alexander/Desktop/sovzond",
+		"/E/dev/lesis2sqlite/src/dialog.py",
+		"/C/Program Files/OpenVPN/config/old/pfSense-udp-1194-Alexander_Lisovenko-config.ovpn",
+		"/C/Program Files/OpenVPN/config/pfSense-udp-1194-Alexander_Lisovenko.ovpn",
+		"/E/dev/landsat_preprocess/monitor/monitor/models.py",
+		"/E/dev/landsat_preprocess/monitor/monitor/__init__.py",
+		"/E/dev/lesis2sqlite/src/shape2sqlite.py",
+		"/E/dev/lesis2sqlite/src/metadata.txt",
+		"/E/dev/lesis2sqlite/lesis2sqlite.sublime-project",
+		"/E/dev/lesis2sqlite/src/__init__.py",
+		"/E/dev/lesis2sqlite/src/dbf2sqlite.py",
+		"/E/dev/one_instance_app/QtSingleApplication.py",
+		"/E/dev/one_instance_app/ngq_test.reg",
+		"/E/dev/one_instance_app/table.py",
+		"/E/dev/one_instance_app/main.py",
+		"/E/dev/one_instance_app/ngq — копия.reg",
+		"/E/dev/landsat_preprocess/monitor/monitor/processing/grasslib.py",
+		"/C/Users/Alexander/Desktop/install_instruction.txt",
+		"/E/dev/landsat_preprocess/monitor/install.txt",
+		"/C/Users/Alexander/Downloads/grass-6.4.2-8.el6.src/grass.spec",
+		"/C/Users/Alexander/Downloads/grass7-7.0.0-2.8.src/grass7.spec",
+		"/C/Users/Alexander/Downloads/grass-7.0.3svn-x86_64-unknown-linux-gnu-20_12_2015-install.sh",
+		"/C/Users/Alexander/Desktop/sublime_with_qgis.bat",
+		"/E/dev/landsat_preprocess/monitor/setup.py",
+		"/E/dev/landsat_preprocess/monitor/monitor/processing/downloader.py",
+		"/C/Users/Alexander/Desktop/sovzond_question.txt",
+		"/E/dev/landsat_preprocess/monitor/development.ini",
+		"/E/dev/landsat_preprocess/monitor/monitor/processing/utils.py",
+		"/C/Users/Alexander/AppData/Local/Temp/grass-7.0.3svn-x86_64-unknown-linux-gnu-16_12_2015-install.sh",
+		"/C/Users/Alexander/Downloads/landsat_preprocess-master/monitor/monitor/processing/processing.py",
+		"/C/Users/Alexander/Downloads/landsat_preprocess-master/landsat_preprocess-master/monitor/monitor/processing/downloader.py",
+		"/E/dev/lesis2sqlite/src/lesis2sqlite.py",
+		"/E/dev/lesis2sqlite/src/lesis2sqlite_.py",
+		"/E/dev/lesis2sqlite/src/utils.py",
+		"/E/dev/lesis2sqlite/lesis2sqlite/dbf2sqlite.py",
+		"/E/dev/lesis2sqlite/lesis2sqlite/lesis2sqlite.py",
+		"/D/Development/NextGIS/lesis2sqlite/lesis2sqlite.sublime-project",
+		"/C/Users/Alexander/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/Development/NextGIS/lesis2sqlite/lesis2sqlite/lesis2sqlite.py",
+		"/D/Development/NextGIS/lesis2sqlite/lesis2sqlite.py",
+		"/D/Development/NextGIS/lesis2sqlite/dbf2shape.py",
+		"/D/Development/NextGIS/lesis2sqlite/cash.py",
+		"/D/Development/NextGIS/lesis2sqlite/Probnii.sqlite",
+		"/D/Development/set_python_2.7.9_env.bat",
+		"/C/Users/Alexander/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Development/NextGIS/lesis2sqlite/__init__.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PluginSettings",
+			"cls",
+			"_ext",
+			"get_default_tile_expiry",
+			"fill_pages",
+			"emit",
+			"QSettings",
+			"qms",
+			"quick",
+			"setti",
+			"settint",
+			"print",
+			"QgsMessageLog",
+			"group",
+			"item.parent()",
+			"child_checked",
+			"ds_list",
+			"__ds_table",
+			"ds_manager_act",
+			"Actio",
+			"install",
+			"process_qrc",
+			"commands",
+			"args",
+			"script",
+			"os.path.exists(",
+			"cent",
+			"__current_sort_order_4_ds_names",
+			"__ds_hide_id_list",
+			", ",
+			",  ",
+			"QgsMessageLog",
+			"QMessageBox",
+			"__dsTable",
+			"icon_path",
+			"icon",
+			"QgsMessageLog",
+			"dataSourceContainer2",
+			"QgsMessageLog",
+			"\n        ",
+			"        \n",
+			"self.ds_list",
+			"ds_hide_list",
+			"QgsMessageLog",
+			": <quickmapservices",
+			">,",
+			"ds_list",
+			"DataSourcesList",
+			"check_pool",
+			"qlr",
+			"localePath",
+			"alias",
+			"loObjectContainer",
+			"IdentifyPlusModel",
+			"alias",
+			"canvas",
+			"mapToolChanged",
+			"IdentifyPlusResults",
+			"addResult:",
+			"mapToolChanged",
+			"addResult:",
+			"addResult",
+			"isAvalable",
+			"self.server_url",
+			"NGWImagesModel",
+			"NGWIdentificationTool",
+			"NGWImagesModel",
+			"Image(",
+			"Image",
+			"ImageLabel",
+			"ImageLoader",
+			"NGWImagesModel",
+			"model",
+			"self",
+			"identifyStarted",
+			"identifyProcessStart",
+			"resType:",
+			"identifyStarted",
+			"_qgsMapCanvas",
+			"_objects",
+			"mapToolChanged",
+			"canvas",
+			"actionRun",
+			"isAvalable",
+			"self.__qgsMapCanvas",
+			"self.__qgsPoint",
+			"qgsMapLayer",
+			"idenifytool",
+			"Model",
+			"model",
+			"Worker",
+			"IdentificationProvider",
+			"DataProvider",
+			"representations",
+			"RepresentationContainer",
+			"sqlite3",
+			"identificationResultsInLayer",
+			"sqlite",
+			"sqlite3",
+			"provider_definition",
+			"providers",
+			"modelAppendObjectsHandel",
+			"objectsAppended",
+			"identificationResultsInLayer",
+			"def identifyMessageHandle(msg):\n      print msg",
+			"identifyFinishedHandel",
+			"IdentifyPlusToolExt",
+			"mapTool",
+			"IdentifyPlusTool",
+			"modelBusyProcess",
+			"ngw_resource_from_qgs_map_layer",
+			"util",
+			"resour",
+			"Ui_AttributesTable",
+			"self.iface",
+			"print",
+			"LesisExportException",
+			"getDBFValue",
+			"u\"Analise directories structure\"",
+			"RecordIterator",
+			"_count_records",
+			"subscriber_func",
+			"lfs",
+			"self.statusChanged",
+			"__pbar",
+			"statusChanged",
+			"pyqtSignal",
+			"__shape2sqlite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"IdentificationTool",
+			"IdentificationProvider",
+			"dest_ds"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Probnii.sqlite"
+			],
+			[
+				"lesis",
+				"lesis2sqlite.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\data\\sovvzond\\testing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

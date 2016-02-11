@@ -1,0 +1,14 @@
+{
+"overview_map": {
+	"project": "C:/overview_map.qgs",
+	"zoom_level": 5000
+	},
+"technological_scheme": {
+	"project": "C:/technological_scheme.qgs",
+	"zoom_level": 5000
+	},
+"mnemonic_diagram": {
+	"config": "mnemonic_diagrams.json",
+	"zoom_level": 5000
+	}
+}

@@ -62,7 +62,7 @@ target/
 .ipynb_checkpoints
 
 #Executable
-.exe
+*.exe
 
 #Sublime
-.sublime-workspace
+*.sublime-workspace
